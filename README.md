@@ -3,7 +3,7 @@ Repository with the code developed for the manuscrip VarPPUD: predicting variant
 
 ## Authorizations
 - To have access to the Undiagnosed Disease Network database, approval is required.
-- Access to the data was done via PIC-SURE
+- Access to the data was done via PIC-SURE.
 
 ## Repo organization and description
 Code/: contains the files constructing the framework  
